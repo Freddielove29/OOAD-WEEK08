@@ -1,15 +1,53 @@
+ภาพที่ 1
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR8gICqlo4crKaWiLd1CoStCu-BAIwtCJInIiAdHrOKAQMJavwKaQaA4D98JYpIv75BpKe3w0G00)
-
+```
+@startuml
+:people: as Admin
+(car) as (Use)
+neymar <|-- Admin
+(honda) <|-- (Use)
+@enduml
+```
+ภาพที่ 2
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuT8eoCZFIzLKI2nMS4p9pSpZuj8epWNAGOLrTUsWuX3XyiIIv0o8i0Q4pUMGcfS2D0a0)
-
+```
+@startuml
+(phone) as Admin
+(watch) as (Use)
+(smartphone) --> Admin
+(smartwtch) --> (Use)
+@enduml
+```
+ภาพที่ 3
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAJIqkphJYiYhApqlCISbNi598B5RmJSqpuafCBialKiXBhSnDB89oh59Byc4AJBWSKlDIW6O00000)
-
+```
+@startuml
+:messi:
+:ronaldo: as Men2
+actor neymar
+actor :eto: as Men4
+@enduml
+```
+ภาพที่ 4
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR9AoodDJhLIiD7DIKqhqLNGo4WiqKGIBSfCpm09boWKPsGMeKYL5W35ir8JyugHHLFoo_E0uiKP-Qb0SOVKl1IWDG00)
-
+```
+@startuml
+:fluke: <-left- (hat)
+:fluke: <-right- (t shirt)
+:fluke: <-up- (jeans)
+:fluke: <-down- (shoes)
+@enduml
+```
+ภาพที่ 5
 ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuT98oyzFqLJGpKbDAz6rKz38JalMX0iMPQPdW4LparFoyn9pKeeHSgK588danEnKX5XAVdaUM7cs9fT3QbuAq080)
-
-
-
+```
+@startuml
+(food) -left-> (kfc)
+(food) -right-> (mcdonalds)
+(food) -up-> (cake)
+(food) -down-> (mk)
+@enduml
+```
 
 
 
