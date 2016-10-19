@@ -1,3 +1,20 @@
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR8gICqlo4crKaWiLd1CoStCu-BAIwtCJInIiAdHrOKAQMJavwKaQaA4D98JYpIv75BpKe3w0G00)
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuT8eoCZFIzLKI2nMS4p9pSpZuj8epWNAGOLrTUsWuX3XyiIIv0o8i0Q4pUMGcfS2D0a0)
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAJIqkphJYiYhApqlCISbNi598B5RmJSqpuafCBialKiXBhSnDB89oh59Byc4AJBWSKlDIW6O00000)
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuR9AoodDJhLIiD7DIKqhqLNGo4WiqKGIBSfCpm09boWKPsGMeKYL5W35ir8JyugHHLFoo_E0uiKP-Qb0SOVKl1IWDG00)
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuT98oyzFqLJGpKbDAz6rKz38JalMX0iMPQPdW4LparFoyn9pKeeHSgK588danEnKX5XAVdaUM7cs9fT3QbuAq080)
+
+
+
+
+
+
+
+
 # OOAD-WEEK08
 
 ## Use Case Diagram (ภาษาไทย)
